@@ -4,5 +4,9 @@ class demo
   {
      .......
   }
+  void getdata() 
+  {
+     -----------
+  }
 }
 
