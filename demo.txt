@@ -1,6 +1,6 @@
-ansible puppet chef
-docker git git lab .....
--------------------------
+ANSIBLE PUPPET CHEF 
+DOCKER GIT GITHUB
+ANT MAVEN ,,,,,
 
 
 SATHYA TECH
