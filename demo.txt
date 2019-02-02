@@ -1,3 +1,8 @@
+ansible puppet chef
+docker git git lab .....
+-------------------------
+
+
 SATHYA TECH
 HYDERABAD
 DEVOPS .......
