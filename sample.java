@@ -1,3 +1,7 @@
+void ADDITION()
+{
+  C=A+B
+}
 void car_loans()
 {
   -----
