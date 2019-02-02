@@ -1,3 +1,11 @@
+void car_loans()
+{
+  -----
+}
+void home_loans()
+{
+  -----
+}
 void withdraw()
 {
   bal=bal-amt
